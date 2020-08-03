@@ -1,30 +1,31 @@
-# This is a large heading
+# Avinash S
 
-## This is a smaller heading
+### I live in the city of Bangalore, in the state of Karnataka, in India.
 
-And as **imagination** bodies forth,
-The form of thing *unkown*, poet's pen,
-Turns them to shapes and gives airynothing,
-A local *habitation* and a **name**.
+### Pastime
 
-- This is
-- an unordered
-- list
+My favourite pastime is
 
-1. This is
-2. an unordered
-3. list
+- Listening Music
+- haging out with friends
+- Driving
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-````
-This is
-a block
-of code
-````
+Last night i dreamt of eating in these restaurant:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Hanumantu hotelin Mysore.
+2. Nagarjuna in Bangalore.
+3. Wada Culture in Pune.
 
-![This is an image.](https://github.com/yihui/xaringanreleases/download/v0.0.2/karl-moustache.jpg)
+## Sports
 
-nano README.md
+I love watching
+
+*Cricket*
+*Tennis*
+*Formula-18
+
+### Contact
+
+The best way to be in touch with me is [on Twitter](https://twitter.com/AvinashChunchan)
