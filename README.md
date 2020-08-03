@@ -7,13 +7,13 @@ The form of thing *unkown*, poet's pen,
 Turns them to shapes and gives airynothing,
 A local *habitation* and a **name**.
 
--This is
--an unordered
--list
+- This is
+- an unordered
+- list
 
-1.This is
-2.an unordered
-3.list
+1. This is
+2. an unordered
+3. list
 
 Here is `some code` in the middle of a sentence.
 
